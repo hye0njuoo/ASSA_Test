@@ -1,0 +1,11 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "C9XX799UJH.Hilingual.com",
+        "paths": [ "/test/*", "*" ]
+      }
+    ]
+  }
+}
